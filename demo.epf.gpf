@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project default_configuration_name="Configuration 1" file_encoding="UTF-8" language_type="2" ltd_name="java" name="demo" version="10.1.0" workspace_directory="C:\Users\hp\eclipse-workspace">
+	<Source exclude="true" path=".\src\main\resources\application.properties" web="false"/>
+	<ProjectScanSettings/>
+</Project>
